@@ -1,2 +1,3 @@
 # Sophinance
-Aplicação de finanças pessoais com IA integrada.
+Aplicação Web para gestão de finanças.
+Projeto Acadêmico de Fintech para FIAP.
